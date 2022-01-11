@@ -18,10 +18,6 @@ const ACTIVITIES: {
     id: "773336526917861400",
     name: "Betrayal.io",
   },
-  youtube: {
-    id: "755600276941176913",
-    name: "YouTube Together",
-  },
   fishing: {
     id: "814288819477020702",
     name: "Fishington.io",
@@ -29,10 +25,6 @@ const ACTIVITIES: {
   chess: {
     id: "832012774040141894",
     name: "Chess in the Park",
-  },
-  puttsdis: {
-    id: "832012854282158180",
-    name: "Putts Dis",
   },
   doodlecrew: {
     id: "878067389634314250",
@@ -54,17 +46,9 @@ const ACTIVITIES: {
     id: "852509694341283871",
     name: "Spellcast",
   },
-  awkword: {
-    id: "879863881349087252",
-    name: "Awkword",
-  },
   checkers: {
     id: "832013003968348200",
     name: "Checkers In The Park (New)",
-  },
-  sketchyartist: {
-    id: "879864070101172255",
-    name: "SketchyArtist (New)",
   },
 };
 
