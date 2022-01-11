@@ -48,7 +48,7 @@ const ACTIVITIES: {
   },
   checkers: {
     id: "832013003968348200",
-    name: "Checkers In The Park (New)",
+    name: "Checkers In The Park",
   },
 };
 
